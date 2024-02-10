@@ -1,0 +1,3 @@
+# practicing
+my first github repository......
+console.log("hello world")
